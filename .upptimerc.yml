@@ -17,7 +17,7 @@ status-website:
   cname: status.webodm.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: ""
+  # logoUrl: ""
   name: WebODM Lightning
   introTitle: ""
   introMessage: ""
