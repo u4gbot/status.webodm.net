@@ -9,7 +9,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Website
+  - name: Website Dashboard
     url: https://webodm.net
 
 
