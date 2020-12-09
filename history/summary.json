@@ -1,23 +1,5 @@
 [
   {
-    "name": "Website",
-    "url": "https://webodm.net",
-    "icon": "https://favicons.githubusercontent.com/webodm.net",
-    "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 304,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Processing Network (spark1)",
     "url": "https://spark1.webodm.net",
     "icon": "https://favicons.githubusercontent.com/spark1.webodm.net",
@@ -28,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 607,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Website",
+    "url": "https://webodm.net",
+    "icon": "https://favicons.githubusercontent.com/webodm.net",
+    "slug": "website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   }
 ]
