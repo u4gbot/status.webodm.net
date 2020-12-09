@@ -4,13 +4,14 @@ repo: status.webodm.net # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Website
-    url: https://webodm.net
   - name: Processing Network (spark1)
     url: https://spark1.webodm.net
     expectedStatusCodes:
       - 200
       - 401
+  - name: Website
+    url: https://webodm.net
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
