@@ -22,9 +22,9 @@
     "url": "https://webodm.net",
     "icon": "https://favicons.githubusercontent.com/webodm.net",
     "slug": "website-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 227,
     "timeMonth": 247,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-23": 0
+    }
   }
 ]
