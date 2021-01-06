@@ -4,9 +4,9 @@
     "url": "https://spark1.webodm.net",
     "icon": "https://favicons.githubusercontent.com/spark1.webodm.net",
     "slug": "processing-network-spark1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 477,
     "timeMonth": 503,
     "timeYear": 503,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 0
+    }
   },
   {
     "name": "Website Dashboard",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/webodm.net",
     "slug": "website-dashboard",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 227,
     "timeDay": 188,
     "timeWeek": 198,
