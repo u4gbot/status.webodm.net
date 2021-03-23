@@ -11,7 +11,15 @@ sites:
       - 401
   - name: Website Dashboard
     url: https://webodm.net
-
+    
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
