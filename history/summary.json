@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 461,
-    "timeWeek": 566,
-    "timeMonth": 569,
-    "timeYear": 499,
+    "time": 500,
+    "timeDay": 598,
+    "timeWeek": 593,
+    "timeMonth": 570,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/webodm.net",
     "slug": "website-dashboard",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 291,
-    "timeWeek": 286,
+    "timeDay": 263,
+    "timeWeek": 299,
     "timeMonth": 270,
-    "timeYear": 252,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   }
 ]
