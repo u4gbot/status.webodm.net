@@ -22,19 +22,19 @@
     "url": "https://webodm.net",
     "icon": "https://favicons.githubusercontent.com/webodm.net",
     "slug": "website-dashboard",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.98%",
     "time": 262,
-    "timeDay": 258,
-    "timeWeek": 240,
+    "timeDay": 284,
+    "timeWeek": 249,
     "timeMonth": 331,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-06-14": 59,
+      "2022-06-14": 102,
       "2022-06-13": 9
     }
   }
