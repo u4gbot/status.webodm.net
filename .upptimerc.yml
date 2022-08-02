@@ -9,8 +9,10 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Website Dashboard
+  - name: Dashboard
     url: https://webodm.net
+  - name: S3 Storage
+    url: https://wln.s3.webodm.net/test.txt
     
 workflowSchedule:
   graphs: "0 0 * * *"
