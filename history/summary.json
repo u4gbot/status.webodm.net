@@ -2,7 +2,7 @@
   {
     "name": "Processing Network (spark1)",
     "url": "https://spark1.webodm.net",
-    "icon": "https://favicons.githubusercontent.com/spark1.webodm.net",
+    "icon": "https://icons.duckduckgo.com/ip3/spark1.webodm.net.ico",
     "slug": "processing-network-spark1",
     "status": "up",
     "uptime": "100.00%",
@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 561,
-    "timeWeek": 478,
+    "time": 518,
+    "timeDay": 416,
+    "timeWeek": 460,
     "timeMonth": 512,
     "timeYear": 529,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
   {
     "name": "Dashboard",
     "url": "https://webodm.net",
-    "icon": "https://favicons.githubusercontent.com/webodm.net",
+    "icon": "https://icons.duckduckgo.com/ip3/webodm.net.ico",
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 287,
-    "timeWeek": 255,
+    "timeDay": 232,
+    "timeWeek": 250,
     "timeMonth": 280,
     "timeYear": 269,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
   {
     "name": "S3 Storage",
     "url": "https://wln.s3.webodm.net/test.txt",
-    "icon": "https://favicons.githubusercontent.com/wln.s3.webodm.net",
+    "icon": "https://icons.duckduckgo.com/ip3/wln.s3.webodm.net.ico",
     "slug": "s3-storage",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 474,
-    "timeWeek": 389,
+    "time": 436,
+    "timeDay": 377,
+    "timeWeek": 376,
     "timeMonth": 429,
-    "timeYear": 437,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   }
 ]
