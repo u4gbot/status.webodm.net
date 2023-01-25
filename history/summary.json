@@ -4,19 +4,19 @@
     "url": "https://spark1.webodm.net",
     "icon": "https://icons.duckduckgo.com/ip3/spark1.webodm.net.ico",
     "slug": "processing-network-spark1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 414,
-    "timeWeek": 530,
-    "timeMonth": 547,
+    "timeDay": 564,
+    "timeWeek": 553,
+    "timeMonth": 552,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-01-25": 1,
+      "2023-01-25": 22,
       "2022-08-02": 0
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wln.s3.webodm.net.ico",
     "slug": "s3-storage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 433,
     "timeDay": 350,
     "timeWeek": 424,
     "timeMonth": 435,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 22
     }
   }
 ]
