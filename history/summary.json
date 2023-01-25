@@ -43,19 +43,19 @@
     "url": "https://wln.s3.webodm.net/test.txt",
     "icon": "https://icons.duckduckgo.com/ip3/wln.s3.webodm.net.ico",
     "slug": "s3-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 433,
-    "timeDay": 350,
-    "timeWeek": 424,
-    "timeMonth": 435,
-    "timeYear": 433,
+    "time": 432,
+    "timeDay": 333,
+    "timeWeek": 410,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-01-25": 22
+      "2023-01-25": 35
     }
   }
 ]
