@@ -4,10 +4,10 @@
     "url": "https://spark1.webodm.net",
     "icon": "https://icons.duckduckgo.com/ip3/spark1.webodm.net.ico",
     "slug": "processing-network-spark1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
@@ -16,6 +16,7 @@
     "timeMonth": 547,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-08-02": 0
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://wln.s3.webodm.net/test.txt",
     "icon": "https://icons.duckduckgo.com/ip3/wln.s3.webodm.net.ico",
     "slug": "s3-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +54,8 @@
     "timeWeek": 424,
     "timeMonth": 435,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
