@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 656,
-    "timeWeek": 549,
-    "timeMonth": 552,
-    "timeYear": 548,
+    "timeDay": 538,
+    "timeWeek": 567,
+    "timeMonth": 548,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2023-01-25": 22,
       "2022-08-02": 0
@@ -27,18 +27,16 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 246,
-    "timeWeek": 231,
-    "timeMonth": 255,
+    "timeDay": 236,
+    "timeWeek": 240,
+    "timeMonth": 252,
     "timeYear": 282,
-    "dailyMinutesDown": {
-      "2023-02-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "S3 Storage",
@@ -52,9 +50,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 432,
-    "timeDay": 474,
-    "timeWeek": 421,
-    "timeMonth": 434,
+    "timeDay": 390,
+    "timeWeek": 432,
+    "timeMonth": 428,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2023-01-25": 35
