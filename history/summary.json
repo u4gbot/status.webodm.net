@@ -43,9 +43,9 @@
     "url": "https://wln.s3.webodm.net/test.txt",
     "icon": "https://icons.duckduckgo.com/ip3/wln.s3.webodm.net.ico",
     "slug": "s3-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -55,6 +55,7 @@
     "timeMonth": 416,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2023-03-31": 0,
       "2023-01-25": 35
     }
   }
