@@ -4,7 +4,7 @@
     "url": "https://spark1.webodm.net",
     "icon": "https://icons.duckduckgo.com/ip3/spark1.webodm.net.ico",
     "slug": "processing-network-spark1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 539,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2023-08-04": 0,
       "2023-06-20": 24,
       "2023-04-09": 0,
       "2023-01-25": 22
