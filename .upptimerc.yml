@@ -11,6 +11,8 @@ sites:
       - 401
   - name: Dashboard
     url: https://webodm.net
+  - name: Cloud Platform 1
+    url: https://cloud1.webodm.net/login/
   - name: S3 Storage
     url: https://wln.s3.webodm.net/test.txt
     
