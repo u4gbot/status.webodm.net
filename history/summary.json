@@ -45,9 +45,9 @@
     "url": "https://cloud1.webodm.net/login/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud1.webodm.net.ico",
     "slug": "cloud-platform-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 763,
     "timeMonth": 742,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-22": 0
+    }
   },
   {
     "name": "S3 Storage",
