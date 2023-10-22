@@ -45,19 +45,19 @@
     "url": "https://cloud1.webodm.net/login/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud1.webodm.net.ico",
     "slug": "cloud-platform-1",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.85%",
-    "time": 740,
-    "timeDay": 740,
-    "timeWeek": 733,
-    "timeMonth": 735,
-    "timeYear": 740,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.83%",
+    "time": 744,
+    "timeDay": 786,
+    "timeWeek": 752,
+    "timeMonth": 741,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2023-10-22": 83
+      "2023-10-22": 97
     }
   },
   {
