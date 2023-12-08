@@ -45,9 +45,9 @@
     "url": "https://cloud1.webodm.net/login/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud1.webodm.net.ico",
     "slug": "cloud-platform-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.88%",
@@ -57,6 +57,7 @@
     "timeMonth": 829,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2023-12-08": 0,
       "2023-12-05": 59,
       "2023-12-04": 9,
       "2023-10-22": 83
