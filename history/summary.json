@@ -27,18 +27,20 @@
     "url": "https://webodm.net",
     "icon": "https://icons.duckduckgo.com/ip3/webodm.net.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 234,
-    "timeWeek": 228,
-    "timeMonth": 235,
+    "timeDay": 214,
+    "timeWeek": 223,
+    "timeMonth": 233,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   },
   {
     "name": "Cloud Platform 1",
