@@ -1,7 +1,7 @@
 url: https://cloud1.webodm.net/login/
-status: up
-code: 200
-responseTime: 679
-lastUpdated: 2024-07-19T02:42:51.838Z
+status: down
+code: 521
+responseTime: 202
+lastUpdated: 2024-07-19T04:38:46.672Z
 startTime: 2023-09-12T21:27:48.718Z
 generator: Upptime <https://github.com/upptime/upptime>
