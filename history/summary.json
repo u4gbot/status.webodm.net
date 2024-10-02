@@ -6,16 +6,18 @@
     "slug": "processing-network-spark1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 518,
-    "timeWeek": 521,
+    "timeDay": 523,
+    "timeWeek": 522,
     "timeMonth": 538,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-01": 1
+    }
   },
   {
     "name": "Dashboard",
@@ -29,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 184,
-    "timeWeek": 488,
-    "timeMonth": 419,
-    "timeYear": 328,
+    "timeDay": 440,
+    "timeWeek": 390,
+    "timeMonth": 414,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-01-06": 16
     }
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 812,
-    "timeDay": 797,
-    "timeWeek": 820,
-    "timeMonth": 815,
+    "timeDay": 769,
+    "timeWeek": 811,
+    "timeMonth": 816,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2024-07-18": 181,
@@ -74,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 472,
-    "timeWeek": 425,
-    "timeMonth": 443,
+    "timeDay": 378,
+    "timeWeek": 415,
+    "timeMonth": 441,
     "timeYear": 415,
     "dailyMinutesDown": {}
   }
