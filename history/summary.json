@@ -6,15 +6,15 @@
     "slug": "processing-network-spark1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 523,
-    "timeWeek": 522,
-    "timeMonth": 538,
-    "timeYear": 515,
+    "time": 520,
+    "timeDay": 717,
+    "timeWeek": 550,
+    "timeMonth": 549,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2024-10-01": 1
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 440,
-    "timeWeek": 390,
-    "timeMonth": 414,
-    "timeYear": 329,
+    "timeDay": 473,
+    "timeWeek": 415,
+    "timeMonth": 419,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2024-01-06": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 812,
-    "timeDay": 769,
-    "timeWeek": 811,
-    "timeMonth": 816,
-    "timeYear": 816,
+    "time": 813,
+    "timeDay": 904,
+    "timeWeek": 830,
+    "timeMonth": 821,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2024-07-18": 181,
       "2024-04-26": 17,
@@ -76,10 +76,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 378,
-    "timeWeek": 415,
-    "timeMonth": 441,
-    "timeYear": 415,
+    "timeDay": 589,
+    "timeWeek": 434,
+    "timeMonth": 449,
+    "timeYear": 416,
     "dailyMinutesDown": {}
   }
 ]
