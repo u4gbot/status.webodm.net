@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 524,
-    "timeDay": 687,
-    "timeWeek": 553,
-    "timeMonth": 569,
-    "timeYear": 522,
+    "timeDay": 494,
+    "timeWeek": 542,
+    "timeMonth": 571,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2024-10-01": 1
     }
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 389,
-    "timeWeek": 259,
-    "timeMonth": 282,
-    "timeYear": 341,
-    "dailyMinutesDown": {
-      "2024-01-06": 16
-    }
+    "timeDay": 278,
+    "timeWeek": 266,
+    "timeMonth": 284,
+    "timeYear": 342,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Platform 1",
@@ -51,8 +49,8 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.94%",
     "time": 815,
-    "timeDay": 1024,
-    "timeWeek": 722,
+    "timeDay": 741,
+    "timeWeek": 715,
     "timeMonth": 849,
     "timeYear": 805,
     "dailyMinutesDown": {
@@ -72,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 544,
-    "timeWeek": 443,
+    "time": 422,
+    "timeDay": 368,
+    "timeWeek": 433,
     "timeMonth": 448,
-    "timeYear": 422,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-11-08": 17
     }
