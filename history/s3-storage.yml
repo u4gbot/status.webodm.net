@@ -1,7 +1,7 @@
 url: https://wln.s3.webodm.net/test.txt
-status: up
-code: 200
-responseTime: 392
-lastUpdated: 2025-03-01T23:13:12.728Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-03-02T23:12:08.000Z
 startTime: 2022-08-02T15:41:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
