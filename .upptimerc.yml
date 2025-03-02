@@ -14,8 +14,6 @@ sites:
   - name: Cloud Platform 1
     url: https://cloud1.webodm.net/login/
   - name: S3 Storage
-    url: https://wln.s3.webodm.net/test.txt
-  - name: S4 Storage
     url: https://wln.s4.webodm.net/test.txt
     
 workflowSchedule:
