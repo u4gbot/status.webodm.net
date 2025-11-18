@@ -22,19 +22,19 @@
     "url": "https://webodm.net",
     "icon": "https://icons.duckduckgo.com/ip3/webodm.net.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 319,
-    "timeDay": 986,
-    "timeWeek": 582,
-    "timeMonth": 385,
+    "timeDay": 848,
+    "timeWeek": 557,
+    "timeMonth": 383,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 84
     }
   },
   {
