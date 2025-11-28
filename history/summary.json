@@ -42,7 +42,7 @@
     "url": "https://cloud1.webodm.net/login/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud1.webodm.net.ico",
     "slug": "cloud-platform-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
