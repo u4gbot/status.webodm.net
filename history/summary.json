@@ -82,9 +82,9 @@
     "url": "https://wln.s4.webodm.net/test.txt",
     "icon": "https://icons.duckduckgo.com/ip3/wln.s4.webodm.net.ico",
     "slug": "s3-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +93,8 @@
     "timeWeek": 411,
     "timeMonth": 409,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-28": 0
+    }
   }
 ]
