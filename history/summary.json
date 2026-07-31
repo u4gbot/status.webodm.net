@@ -6,16 +6,18 @@
     "slug": "processing-network-spark1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 562,
+    "time": 561,
+    "timeDay": 685,
     "timeWeek": 616,
-    "timeMonth": 548,
+    "timeMonth": 553,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-30": 1
+    }
   },
   {
     "name": "Dashboard",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 515,
-    "timeDay": 719,
-    "timeWeek": 751,
-    "timeMonth": 761,
-    "timeYear": 581,
+    "time": 516,
+    "timeDay": 1034,
+    "timeWeek": 763,
+    "timeMonth": 770,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2026-01-15": 44,
@@ -52,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 624,
-    "timeWeek": 725,
-    "timeMonth": 662,
-    "timeYear": 816,
+    "time": 825,
+    "timeDay": 787,
+    "timeWeek": 711,
+    "timeMonth": 666,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 606,
-    "timeWeek": 691,
-    "timeMonth": 661,
-    "timeYear": 751,
+    "time": 752,
+    "timeDay": 798,
+    "timeWeek": 687,
+    "timeMonth": 665,
+    "timeYear": 752,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +91,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 441,
-    "timeDay": 368,
-    "timeWeek": 415,
-    "timeMonth": 408,
+    "timeDay": 515,
+    "timeWeek": 417,
+    "timeMonth": 411,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2026-07-28": 168
